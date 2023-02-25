@@ -15,6 +15,7 @@ Plutoniumified Comments Spammer
 - [Возможность отвечать одним из первых на новые посты](https://github.com/plutonium777/enhanced-comments-md#%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BE%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%82%D1%8C-%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D0%B8%D0%B7-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D1%85-%D0%BD%D0%B0-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D1%82%D1%8B)
 - [Разметка (markdown)](https://github.com/plutonium777/enhanced-comments-md#%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B0-markdown)
 - [Поддержка прокси](https://github.com/plutonium777/enhanced-comments-md#%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8-proxyfier)
+- [Поддержка разных типов аккаунтов]()
 
 Нажав на любой из пунктов  можно  увидеть инструкцию по использованию.
 ## Активация и лицензирование
@@ -68,6 +69,11 @@ Plutoniumified Comments Spammer
 
 ## Прокси (Proxyfier)
 todo
+
+## Поддержка разных типов аккаунтов
+В текущей версии поддерживаются два типа аккаунтов. 
+- JSON+SESSION аккаунты (их нужно закинуть в папку ./data/accounts/, вводить номер телефона и код при этом не понадобится)
+- TData (они же по номеру телефона или с клиента Telegram) - загрузить их можно нажав на "+" возле кнопки "Старт".
 
 ## Разметка (Markdown)
 Юзернеймы: рандомизированный символ % (пример: nastya_%%% -> nastya_dsj)
