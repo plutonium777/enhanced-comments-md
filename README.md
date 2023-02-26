@@ -68,7 +68,7 @@ Plutoniumified Comments Spammer
 [Так же можно рандомизировать символы / слова (инструкция) и применять разметку](https://github.com/plutonium777/enhanced-comments-md#%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B0-markdown).
 
 ## Прокси (Proxyfier)
-todo
+Скоро!
 
 ## Поддержка разных типов аккаунтов
 В текущей версии поддерживаются два типа аккаунтов. 
