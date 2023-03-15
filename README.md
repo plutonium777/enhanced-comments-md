@@ -67,7 +67,10 @@ Plutoniumified Comments Spammer
 
 [Так же можно рандомизировать символы / слова (инструкция) и применять разметку](https://github.com/plutonium777/enhanced-comments-md#%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B0-markdown).
 
-## Прокси (Proxyfier)
+## Прокси (Proxyfier + TSPP)
+1. Устанавливаем Proxyfier, активируем его (есть пробный период на месяц)
+2. Скачиваем [Telegram Spam Proxy Profile]()
+3. 
 Скоро!
 
 ## Поддержка разных типов аккаунтов
