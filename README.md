@@ -1,7 +1,7 @@
 <h1 align="center">
 Plutoniumified Comments Spammer
 </h1>
-<h2 align="center"><a href="https://t.me/telefuckproj">По поводу вопросов и покупки</a>
+<h2 align="center"><a href="https://t.me/wasd_plutonium">По поводу вопросов и покупки</a>
 <h3 align="center">Версия: 1.1</h3>
 
 
